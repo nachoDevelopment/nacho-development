@@ -1,0 +1,10 @@
+// Tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Global
+@import './global/global.scss';
+
+//Components
+@import './components/footer.scss';
